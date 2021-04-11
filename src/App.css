@@ -1,0 +1,15 @@
+.notif {
+    border: 1px solid green;
+    color: green;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.error {
+    border: 1px solid red;
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+}
